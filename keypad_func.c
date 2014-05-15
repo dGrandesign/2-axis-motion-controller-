@@ -1,3 +1,5 @@
+//Made by Trupti Pomaje
+
 #include <avr/io.h> 
 #include <util/delay.h>
 //#include "lcd_functions.c"
